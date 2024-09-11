@@ -1,2 +1,0 @@
-[console_scripts]
-vehicle_controller = motion_controller.vehicle_controller:main
