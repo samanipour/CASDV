@@ -1,0 +1,30 @@
+running egg_info
+creating ../build/vehicle/vehicle.egg-info
+writing ../build/vehicle/vehicle.egg-info/PKG-INFO
+writing dependency_links to ../build/vehicle/vehicle.egg-info/dependency_links.txt
+writing requirements to ../build/vehicle/vehicle.egg-info/requires.txt
+writing top-level names to ../build/vehicle/vehicle.egg-info/top_level.txt
+writing manifest file '../build/vehicle/vehicle.egg-info/SOURCES.txt'
+reading manifest file '../build/vehicle/vehicle.egg-info/SOURCES.txt'
+writing manifest file '../build/vehicle/vehicle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ali/CAXSim/src/build/vehicle/build
+creating /home/ali/CAXSim/src/build/vehicle/build/lib
+creating /home/ali/CAXSim/src/build/vehicle/build/lib/vehicle
+copying vehicle/__init__.py -> /home/ali/CAXSim/src/build/vehicle/build/lib/vehicle
+running install
+running install_lib
+creating /home/ali/CAXSim/src/install/vehicle/lib/python3.12/site-packages/vehicle
+copying /home/ali/CAXSim/src/build/vehicle/build/lib/vehicle/__init__.py -> /home/ali/CAXSim/src/install/vehicle/lib/python3.12/site-packages/vehicle
+byte-compiling /home/ali/CAXSim/src/install/vehicle/lib/python3.12/site-packages/vehicle/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/ali/CAXSim/src/install/vehicle/share/ament_index
+creating /home/ali/CAXSim/src/install/vehicle/share/ament_index/resource_index
+creating /home/ali/CAXSim/src/install/vehicle/share/ament_index/resource_index/packages
+copying resource/vehicle -> /home/ali/CAXSim/src/install/vehicle/share/ament_index/resource_index/packages
+copying package.xml -> /home/ali/CAXSim/src/install/vehicle/share/vehicle
+running install_egg_info
+Copying ../build/vehicle/vehicle.egg-info to /home/ali/CAXSim/src/install/vehicle/lib/python3.12/site-packages/vehicle-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/ali/CAXSim/src/build/vehicle/install.log'
