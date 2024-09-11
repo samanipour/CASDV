@@ -1,0 +1,24 @@
+[1.370s] Invoking command in '/home/ali/CAXSim/src/vehicle': PYTHONPATH=/home/ali/CAXSim/build/vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vehicle build --build-base /home/ali/CAXSim/build/vehicle/build install --record /home/ali/CAXSim/build/vehicle/install.log --single-version-externally-managed install_data
+[1.750s] running egg_info
+[1.772s] writing ../../build/vehicle/vehicle.egg-info/PKG-INFO
+[1.773s] writing dependency_links to ../../build/vehicle/vehicle.egg-info/dependency_links.txt
+[1.773s] writing entry points to ../../build/vehicle/vehicle.egg-info/entry_points.txt
+[1.774s] writing requirements to ../../build/vehicle/vehicle.egg-info/requires.txt
+[1.774s] writing top-level names to ../../build/vehicle/vehicle.egg-info/top_level.txt
+[1.818s] reading manifest file '../../build/vehicle/vehicle.egg-info/SOURCES.txt'
+[1.820s] writing manifest file '../../build/vehicle/vehicle.egg-info/SOURCES.txt'
+[1.820s] running build
+[1.820s] running build_py
+[1.820s] copying vehicle/vehicle_controller.py -> /home/ali/CAXSim/build/vehicle/build/lib/vehicle
+[1.821s] running install
+[1.828s] running install_lib
+[1.850s] copying /home/ali/CAXSim/build/vehicle/build/lib/vehicle/vehicle_controller.py -> /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle
+[1.850s] byte-compiling /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle/vehicle_controller.py to vehicle_controller.cpython-312.pyc
+[1.851s] running install_data
+[1.851s] running install_egg_info
+[1.875s] removing '/home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle-0.0.0-py3.12.egg-info' (and everything under it)
+[1.875s] Copying ../../build/vehicle/vehicle.egg-info to /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle-0.0.0-py3.12.egg-info
+[1.877s] running install_scripts
+[2.032s] Installing vehicle_controller script to /home/ali/CAXSim/install/vehicle/lib/vehicle
+[2.032s] writing list of installed files to '/home/ali/CAXSim/build/vehicle/install.log'
+[2.066s] Invoked command in '/home/ali/CAXSim/src/vehicle' returned '0': PYTHONPATH=/home/ali/CAXSim/build/vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vehicle build --build-base /home/ali/CAXSim/build/vehicle/build install --record /home/ali/CAXSim/build/vehicle/install.log --single-version-externally-managed install_data

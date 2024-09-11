@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/vehicle/vehicle.egg-info/PKG-INFO
+writing dependency_links to ../../build/vehicle/vehicle.egg-info/dependency_links.txt
+writing entry points to ../../build/vehicle/vehicle.egg-info/entry_points.txt
+writing requirements to ../../build/vehicle/vehicle.egg-info/requires.txt
+writing top-level names to ../../build/vehicle/vehicle.egg-info/top_level.txt
+reading manifest file '../../build/vehicle/vehicle.egg-info/SOURCES.txt'
+writing manifest file '../../build/vehicle/vehicle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ali/CAXSim/build/vehicle/build/lib/motion_controller
+copying motion_controller/vehicle_controller.py -> /home/ali/CAXSim/build/vehicle/build/lib/motion_controller
+copying motion_controller/__init__.py -> /home/ali/CAXSim/build/vehicle/build/lib/motion_controller
+running install
+running install_lib
+creating /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/motion_controller
+copying /home/ali/CAXSim/build/vehicle/build/lib/motion_controller/vehicle_controller.py -> /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/motion_controller
+copying /home/ali/CAXSim/build/vehicle/build/lib/motion_controller/__init__.py -> /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/motion_controller
+byte-compiling /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/motion_controller/vehicle_controller.py to vehicle_controller.cpython-312.pyc
+byte-compiling /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/motion_controller/__init__.py to __init__.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/vehicle/vehicle.egg-info to /home/ali/CAXSim/install/vehicle/lib/python3.12/site-packages/vehicle-0.0.0-py3.12.egg-info
+running install_scripts
+Installing vehicle_controller script to /home/ali/CAXSim/install/vehicle/lib/vehicle
+writing list of installed files to '/home/ali/CAXSim/build/vehicle/install.log'
